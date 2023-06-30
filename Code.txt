@@ -40,7 +40,7 @@ def is_game_over():
 while True:
     # Print the game board
     print_board()
-
+    #print("123")
     # Get the current player's move
     print("Player", current_player, "turn.")
     print("Enter the row (0-2):")
